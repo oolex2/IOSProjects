@@ -1,0 +1,6 @@
+framework module Pods_MyBank {
+  umbrella header "Pods-MyBank-umbrella.h"
+
+  export *
+  module * { export * }
+}
